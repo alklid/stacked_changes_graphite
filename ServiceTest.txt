@@ -17,3 +17,7 @@ Test_createStack() {
 @Test_그것도() {
     assertThat(...);
 }
+
+@Test_요것도() {
+    assertThat(...);
+}
