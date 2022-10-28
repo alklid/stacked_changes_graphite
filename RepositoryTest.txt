@@ -10,6 +10,12 @@ Test_createStack() {
 }
 
 
+@Test
+Test_findByName() {
+    assertThat(...);
+}
+
+
 @Test_이것도() {
     assertThat(...);
 }

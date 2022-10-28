@@ -5,3 +5,7 @@ Stack findById(long id) {
 Stack createStack(Stack stack) {
     ...
 }
+
+Stack findByName(String name) {
+    ...
+}
