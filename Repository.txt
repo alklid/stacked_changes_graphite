@@ -1,1 +1,6 @@
 @Repository
+
+
+Stack findById(long id);
+
+Stack createStack(Stack stack);
