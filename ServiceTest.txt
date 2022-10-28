@@ -1,0 +1,19 @@
+@Test
+Test_createStack() {
+    assertThat(...);
+}
+
+
+@Test_이것도() {
+    assertThat(...);
+}
+
+
+@Test_저것도() {
+    assertThat(...);
+}
+
+
+@Test_그것도() {
+    assertThat(...);
+}
