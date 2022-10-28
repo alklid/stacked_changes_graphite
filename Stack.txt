@@ -1,0 +1,4 @@
+@Entity
+
+long id;
+String name;
