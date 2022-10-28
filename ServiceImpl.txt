@@ -1,6 +1,7 @@
 StackData createStack(StackForm stackForm) {
     ...
     validate(stackForm)
+    findByName(stackForm.name)
     ...
 }
 
